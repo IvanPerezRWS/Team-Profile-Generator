@@ -1,0 +1,26 @@
+{
+  "name": "Team-Profile-Generator",
+  "version": "1.0.0",
+  "description": "## Description A Node.js command-line application that takes information about emplyees on a software engineering  team and generates an HTML webpage that displays summaries for each person.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanPerezRWS/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanPerezRWS/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/IvanPerezRWS/Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
