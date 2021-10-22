@@ -21,6 +21,7 @@
     "jest": "^27.3.1"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
     "inquirer": "^8.2.0"
   }
 }
